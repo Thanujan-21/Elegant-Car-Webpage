@@ -1,0 +1,10 @@
+header
+'Poppins', sans-serif
+#0082e6 - Light Blue
+#1b9bff - lighter Blue
+#2c3e50 - dark Blue
+#34495F - darker Blue
+
+footer
+#005BA0 - Blue
+#1a1a1a - Black
